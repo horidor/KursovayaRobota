@@ -1,0 +1,2 @@
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\Release\KursovayaRobota.MyForm.resources
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\Release\KursovayaRobota.vcxproj.GenerateResource.cache

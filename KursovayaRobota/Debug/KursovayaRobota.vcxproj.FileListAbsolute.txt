@@ -1,0 +1,4 @@
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\Debug\KursovayaRobota.vcxprojAssemblyReference.cache
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\Debug\KursovayaRobota.MyForm.resources
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\Debug\KursovayaRobota.vcxproj.GenerateResource.cache
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\Debug\KursovayaRobota.FormVizualize.resources

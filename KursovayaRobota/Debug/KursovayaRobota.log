@@ -1,0 +1,14 @@
+﻿  FormVizualize.cpp
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\system_process.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\system_process.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\system_process.h(29,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\system_process.h(44,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyForm.cpp
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\system_process.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\system_process.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\system_process.h(29,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\system_process.h(44,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\topkek\source\repos\KursovayaRobota\KursovayaRobota\MyForm.cpp(40,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  FormVizualize.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KursovayaRobota.vcxproj -> C:\Users\topkek\source\repos\KursovayaRobota\Debug\KursovayaRobota.exe
